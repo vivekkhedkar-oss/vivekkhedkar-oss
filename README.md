@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Khedkar 👋
 
-I'm a UC Berkeley student. I build full-stack web apps and tools that run large language models locally, and I like projects where security, correctness or clear evidence matters.
+I'm currently a MBA student at UC Berkeley - Haas School of Business. I'm love tinkering with AI tools and so far I've build full-stack web apps and tools that run large language models locally, and I like projects where security, correctness or clear evidence matters.
 
 ## Featured projects
 
